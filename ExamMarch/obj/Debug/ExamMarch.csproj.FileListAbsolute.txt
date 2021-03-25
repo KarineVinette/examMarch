@@ -1,0 +1,7 @@
+C:\Users\KarineVINETTE\source\repos\ExamMarch\obj\Debug\ExamMarch.csprojAssemblyReference.cache
+C:\Users\KarineVINETTE\source\repos\ExamMarch\obj\Debug\ExamMarch.csproj.CoreCompileInputs.cache
+C:\Users\KarineVINETTE\source\repos\ExamMarch\bin\Debug\ExamMarch.exe.config
+C:\Users\KarineVINETTE\source\repos\ExamMarch\bin\Debug\ExamMarch.exe
+C:\Users\KarineVINETTE\source\repos\ExamMarch\bin\Debug\ExamMarch.pdb
+C:\Users\KarineVINETTE\source\repos\ExamMarch\obj\Debug\ExamMarch.exe
+C:\Users\KarineVINETTE\source\repos\ExamMarch\obj\Debug\ExamMarch.pdb
